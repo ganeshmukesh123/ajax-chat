@@ -1,2 +1,5 @@
-# ajax-chat
-this is a chatroom 
+# Ajax-chat
+This is a chatroom
+
+## Licence
+MIT
